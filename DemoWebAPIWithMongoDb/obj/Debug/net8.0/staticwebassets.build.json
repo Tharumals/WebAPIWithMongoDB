@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "87pudWX900s678EsaMTTtIxiDHUl6Nx01mjIeEi4H6s=",
+  "Source": "DemoWebAPIWithMongoDb",
+  "BasePath": "_content/DemoWebAPIWithMongoDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
